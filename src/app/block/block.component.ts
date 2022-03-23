@@ -1,0 +1,17 @@
+import { Component, OnInit } from '@angular/core';
+
+@Component({
+  selector: 'app-block',
+  templateUrl: './block.component.html',
+  styleUrls: ['./block.component.css']
+})
+export class BlockComponent implements OnInit {
+
+  BlockName = "ABC";
+
+  constructor() { }
+
+  ngOnInit(): void {
+  }
+
+}
