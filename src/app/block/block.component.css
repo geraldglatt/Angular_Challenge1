@@ -1,0 +1,34 @@
+
+.block1{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  border: solid 1px black;
+  width: 30px;
+  height: 30px;
+
+}
+.block2{
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  border: solid 1px black;
+  width: 30px;
+  height: 30px;
+}
+.block3{
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  border: solid 1px black;
+  width: 30px;
+  height: 30px;
+}
+.block4{
+  position: absolute;
+  border:solid 1px black;
+  left: 0px;
+  bottom: 0px;
+  width: 30px;
+  height: 30px;
+}
